@@ -1,0 +1,7 @@
+C:\Users\ekowa\Desktop\Gitproject\Githubvideo\bin\Debug\Githubvideo.exe.config
+C:\Users\ekowa\Desktop\Gitproject\Githubvideo\bin\Debug\Githubvideo.exe
+C:\Users\ekowa\Desktop\Gitproject\Githubvideo\bin\Debug\Githubvideo.pdb
+C:\Users\ekowa\Desktop\Gitproject\Githubvideo\obj\Debug\Githubvideo.csproj.AssemblyReference.cache
+C:\Users\ekowa\Desktop\Gitproject\Githubvideo\obj\Debug\Githubvideo.csproj.CoreCompileInputs.cache
+C:\Users\ekowa\Desktop\Gitproject\Githubvideo\obj\Debug\Githubvideo.exe
+C:\Users\ekowa\Desktop\Gitproject\Githubvideo\obj\Debug\Githubvideo.pdb
